@@ -50,4 +50,6 @@ typedef enum {
                           alpha:(float)alpha
                         yOrigin:(CGFloat)origin;
 
+- (void) close;
+
 @end
